@@ -1,4 +1,4 @@
-function hallo(){
+function login(){
 	console.log("hello");
 	location.href="html/callback.html"
 }
